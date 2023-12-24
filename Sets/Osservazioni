@@ -1,0 +1,5 @@
+NB: Dal set3 in poi uso il flag -clear che cancella le iterazioni
+
+Dal set 4 ripartiamo da capo, modificando la dimensione delle immagini a 608x608 in modo da velocizzare il traning e sostituire region con yolo. Dovrebbero fare la stessa cosa. 
+
+Al 5 set ho randomizzato e modificato la dimensione del batch. Puntiamo generalizzare ora. 
